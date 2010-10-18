@@ -1,0 +1,13 @@
+a3323b5440b65b5fa8b199c38b0b58d0 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+faf44b6a6ee815eefd5924b7fe4d767a *R/Internal.r
+7bdb87ef8ad5c6d7e4600596d50e2783 *R/VBMA.r
+20195ad5ca7e48343d98ac6bc5a8409d *R/rKnorm.r
+da45663305a3a6af8d756778be2ec3f7 *R/zzz.r
+53a56f35c3064d978da39b7432a71310 *man/VBMA.Rd
+4cee8cad0fbf89784e09ffec58f44c8f *man/rKnorm.Rd
+66443284584496aaebee1d16b73d0762 *src/Backward.c
+03690bf17c86d3d1ebdc75d8b5696e63 *src/Convert.c
+2cde9ce1540220fd3df1bf75d776d4ff *src/Convert.h
+f9f11e4cca1a005b3769349ab65c6519 *src/Forward.c
+0783ea48fbd515c4699db99cd447dcc5 *src/Makevars
